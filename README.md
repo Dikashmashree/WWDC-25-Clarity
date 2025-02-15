@@ -10,7 +10,8 @@ That’s why I designed Clarity to be effortless, lightweight, and empowering ,S
 
 This app isn’t just about seeing words. It’s about restoring independence. About ensuring a grandfather can read his medicine label without strain, a student can study from a textbook without frustration, and a traveler can navigate signs with confidence.I built this app because representation matters. Because innovation should include everyone. And because, sometimes, a little clarity can change someone’s world.
 
-                               ~ The aim is to not just see things, but to be self reliant and independent. ~
+ 
+ ~ The aim is to not just see things, but to be self reliant and independent. ~
 
 
 https://github.com/user-attachments/assets/96e1d0cc-cd90-4d66-af21-93ceb0dcdd99
